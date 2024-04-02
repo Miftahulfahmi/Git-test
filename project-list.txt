@@ -1,3 +1,3 @@
 Project List :
-Applicaion Project : Todo-list, wallet, Games.
+Applicaion Project : Todo-list, wallet, Games, Music.
 Education Video : CSS Basic, Javascript Basic, CSS tips & Trick
